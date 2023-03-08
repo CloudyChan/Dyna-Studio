@@ -1,1 +1,1 @@
-# Dyna-Studio
+location.href = "index.html";
