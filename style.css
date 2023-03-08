@@ -157,6 +157,11 @@ button:disabled{
   cursor: default;
 }
 
+@font-face {
+    font-family: 'Segoe UI Variable';
+    src: url('/assets/fonts/SegoeUIVF.ttf');
+}
+
 button{
 	appearance: none;
 	background: #16a34a;
@@ -176,11 +181,6 @@ button{
 
 button:hover {
 	background-color: #17ac4e;
-}
-
-@font-face {
-    font-family: 'Segoe UI Variable';
-    src: url('SegoeUIVF.ttf');
 }
 
 .checkbox{
